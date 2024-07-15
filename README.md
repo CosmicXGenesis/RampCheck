@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c1b1124-c9d8-4c48-ba7b-95fd82e13626)# RampCheck
+# RampCheck
 
 Repository for Myntra Hacker-Ramp 'We for She' program prototype
 
